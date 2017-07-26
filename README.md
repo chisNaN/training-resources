@@ -38,7 +38,7 @@
 - [FTP client](https://filezilla-project.org)
 
 
-# List of Web Acronymes (en anglais)
+# List of Web Acronyms (en anglais)
 
 - ASAP (as soon as possible)
 - WIP (work in progress)
@@ -59,7 +59,7 @@
 - MVC (model view controller)
 - SEO (search engine optimization)
 
- Acronymes récursifs
+ "Acronymes récursifs"
 
  - NOSQL (not only sql)
  - AJAX (asynchronous javascript and xml)
