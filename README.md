@@ -3,6 +3,7 @@
 - [Github](https://github.com)
 - [Bitbucket](https://bitbucket.org)
 - [Slack](https://slack.com)
+- [Appear.in](https://appear.in)
 - [Jsfiddle](https://jsfiddle.net)
 - [Php.net](http://www.php.net)
 - [SQL.sh](http://sql.sh)
