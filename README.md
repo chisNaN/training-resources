@@ -5,6 +5,7 @@
 - [Slack](https://slack.com)
 - [Appear.in](https://appear.in)
 - [Jsfiddle](https://jsfiddle.net)
+- [JsonLint](https://jsonlint.com)
 - [Php.net](http://www.php.net)
 - [SQL.sh](http://sql.sh)
 - [MySQL Official Doc](https://dev.mysql.com/doc/refman/5.7/en)
