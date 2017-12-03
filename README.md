@@ -56,8 +56,8 @@
 - SGBDR (bdd)
 - PAAS, FAAS (x- as a service)
 - VM (virtual machine)
-- JSON (javascript object notation)
-- OOP (object oriented programmation)
+- JSON (javascript standard object notation)
+- OOP (object oriented programming)
 - MVC (model view controller)
 - SEO (search engine optimization)
 
@@ -71,5 +71,3 @@
 :bulb: You must have git, docker and docker-compose installed on your host machine before!
 
 [Docker compose LAMP stack](https://github.com/chisNaN/dc-webstack/tree/3wa)
-
-(be sure to work on 3wa branch)
