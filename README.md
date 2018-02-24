@@ -70,4 +70,4 @@
 
 :bulb: You must have git, docker and docker-compose installed on your host machine before!
 
-[Docker compose LAMP stack](https://github.com/chisNaN/dc-webstack/tree/3wa)
+[Docker compose LAMP stack](https://github.com/chisNaN/dc-webstack)
