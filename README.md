@@ -65,9 +65,3 @@
 
  - NOSQL (not only sql)
  - AJAX (asynchronous javascript and xml)
-
-# Docker compose LAMP stack (including phpmyadmin and mailhog)
-
-:bulb: You must have git, docker and docker-compose installed on your host machine before!
-
-[Docker compose LAMP stack](https://github.com/chisNaN/dc-webstack)
