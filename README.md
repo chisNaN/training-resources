@@ -13,6 +13,7 @@
 - [MDN Wep API](https://developer.mozilla.org/fr/docs/Web/API)
 - [Markdown tuto](http://www.markdowntutorial.com)
 - [openclassrooms](https://openclassrooms.com)
+- [putaindecode](http://putaindecode.io)
 - [w3schools](https://www.w3schools.com)
 - [Alsacréations](https://www.alsacreations.com)
 - [Css tricks](https://css-tricks.com)
