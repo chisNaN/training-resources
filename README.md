@@ -1,4 +1,4 @@
-# Liens utiles
+# Useful links
 
 - [Github](https://github.com)
 - [Bitbucket](https://bitbucket.org)
@@ -28,10 +28,7 @@
 - [whatsmydns](https://www.whatsmydns.net)
 - [Norsecorp](http://map.norsecorp.com)
 
-
-# Outils (et protocoles) web
-
-> Outils qu'un "développeur web fullstack intermédiaire" doit pouvoir manipuler régulièrement
+# Tools & web protocols
 
 - [Git](https://git-scm.com)
 - [SSH](https://doc.ubuntu-fr.org/ssh)
@@ -40,8 +37,13 @@
 - [cURL](https://curl.haxx.se)
 - [FTP client](https://filezilla-project.org)
 
+# Youtube channels & other video tutorials
 
-# List of Web Acronyms (en anglais)
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+- [egghead](https://egghead.io)
+
+# List of Web Acronyms
 
 - ASAP (as soon as possible)
 - WIP (work in progress)
@@ -61,8 +63,5 @@
 - OOP (object oriented programming)
 - MVC (model view controller)
 - SEO (search engine optimization)
-
- "Acronymes récursifs"
-
- - NOSQL (not only sql)
+- NOSQL (not only sql)
  - AJAX (asynchronous javascript and xml)
