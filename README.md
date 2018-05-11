@@ -14,6 +14,7 @@
 - [Markdown tuto](http://www.markdowntutorial.com)
 - [openclassrooms](https://openclassrooms.com)
 - [putaindecode](http://putaindecode.io)
+- [blog xebia](https://blog.xebia.fr)
 - [w3schools](https://www.w3schools.com)
 - [Alsacréations](https://www.alsacreations.com)
 - [Css tricks](https://css-tricks.com)
