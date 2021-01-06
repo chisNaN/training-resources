@@ -3,6 +3,8 @@
 - [Github](https://github.com)
 - [Bitbucket](https://bitbucket.org)
 - [Slack](https://slack.com)
+- [cloudflare](https://www.cloudflare.com/fr-fr)
+- [netlify](https://www.netlify.com)
 - [Appear.in](https://appear.in)
 - [Jsfiddle](https://jsfiddle.net)
 - [JsonLint](https://jsonlint.com)
