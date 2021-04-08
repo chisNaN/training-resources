@@ -45,7 +45,10 @@
 
 - [program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
 - [Code with Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
+- [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ)
+- [JOMA](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/featured)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 - [egghead](https://egghead.io)
