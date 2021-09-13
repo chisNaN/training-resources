@@ -21,6 +21,7 @@
 - [w3schools](https://www.w3schools.com)
 - [Alsacréations](https://www.alsacreations.com)
 - [Css tricks](https://css-tricks.com)
+- [flexboxfroggy](https://flexboxfroggy.com/#fr)
 - [Learn layout](http://fr.learnlayout.com)
 - [Quora Digest](https://www.quora.com)
 - [AWS](https://aws.amazon.com/fr/console)
